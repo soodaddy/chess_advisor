@@ -9,3 +9,5 @@ calibration.json
 # 개인 화면(창 제목 등)이 찍힌 스크린샷
 tests/fixtures/
 *.png
+# README 대표 그림 (보드 영역만 잘라낸 것, 개인 정보 없음)
+!docs/demo.png
