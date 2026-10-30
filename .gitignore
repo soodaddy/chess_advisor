@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 이 Mac의 창 크기별로 자동 생성되는 보정 캐시
+calibration.json
+
+# 개인 화면(창 제목 등)이 찍힌 스크린샷
+tests/fixtures/
+*.png
