@@ -113,3 +113,13 @@ tests/                단위 테스트
 | [OpenCV](https://opencv.org/) | Apache-2.0 | GrabCut 분할, 도형 처리 |
 | [NumPy](https://numpy.org/), [SciPy](https://scipy.org/) | BSD | 수치 계산, 보정 최적화 |
 | [PyObjC](https://pyobjc.readthedocs.io/) | MIT | macOS 접근성 API와 오버레이 창 |
+
+## 라이선스
+
+[GNU General Public License v3.0 이상](LICENSE) (GPL-3.0-or-later)
+
+이 프로그램은 자유 소프트웨어입니다. 자유 소프트웨어 재단이 발행한 GNU 일반 공중 사용 허가서 버전 3, 또는
+(선택에 따라) 그 이후 버전의 조건에 따라 재배포하거나 수정할 수 있습니다. 이 프로그램은 유용하기를 바라며 배포되지만
+**어떠한 보증도 제공하지 않습니다.** 자세한 내용은 LICENSE를 참고하세요.
+
+python-chess(GPL-3.0 이상)를 직접 사용하므로 같은 계열인 GPL-3.0을 선택했습니다.
